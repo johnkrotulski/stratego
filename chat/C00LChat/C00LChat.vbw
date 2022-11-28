@@ -1,0 +1,6 @@
+frmMain = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmMakeChat = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmJoin = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+modVariables = 0, 0, 0, 0, C
+frmChat = 0, 0, 0, 0, C, 0, 0, 0, 0, C
+frmAbout = 0, 0, 0, 0, C, 0, 0, 0, 0, C

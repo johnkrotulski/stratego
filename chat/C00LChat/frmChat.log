@@ -1,0 +1,8 @@
+Line 45: Class MSWinsockLib.Winsock of control Reciever was not a loaded control class.
+Line 53: Class MSWinsockLib.Winsock of control Sender was not a loaded control class.
+Line 49: The property name _ExtentX in Reciever is invalid.
+Line 50: The property name _ExtentY in Reciever is invalid.
+Line 51: The property name _Version in Reciever is invalid.
+Line 56: The property name _ExtentX in Sender is invalid.
+Line 57: The property name _ExtentY in Sender is invalid.
+Line 58: The property name _Version in Sender is invalid.

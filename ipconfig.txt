@@ -1,0 +1,10 @@
+
+Windows IP Configuration
+
+
+PPP adapter sfasu:
+
+        Connection-specific DNS Suffix  . : 
+        IP Address. . . . . . . . . . . . : 144.96.157.75
+        Subnet Mask . . . . . . . . . . . : 255.255.255.255
+        Default Gateway . . . . . . . . . : 144.96.157.75
